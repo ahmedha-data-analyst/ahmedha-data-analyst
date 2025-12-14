@@ -17,7 +17,7 @@
 
 ### 📫 Reach Me
 
-- 📧 Email: [ahmedha.analyst@outlook.com](mailto:ahmedha.analyst@outlook.com)  
+- 📧 Email: [ahmedha.analyst@outlook.com](mailto:ahmed@hydrostar-uk.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmedabdalla-ds)
 
 ---
