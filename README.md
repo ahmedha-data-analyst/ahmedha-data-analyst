@@ -9,7 +9,7 @@
 ### 🔧 What I Do
 
 - 🎓 MSc Data Science — University of Plymouth  
-- 💨 Internship: Emarald Green Power — Air quality + environment analytics  
+- 💨 Emarald Green Power — Air quality + environment analytics  
 - 💰 MSc Dissertation: Anti-money laundering with GNNs  
 - 🧪 Projects in time series, synthetic data, privacy, and forecasting
 
